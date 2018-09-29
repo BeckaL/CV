@@ -1,6 +1,8 @@
-## Your Name
+## Becka Lelew
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Full stack developer with a keen interest in back-end logic. Recent graduate of Makers Academy, a 12 week bootcamp teaching the fundamentals of coding. I enjoy solving problems with logic, maths and neat code!
+
+5 years' experience in various analytical and strategy roles in the public sector. Now ready for a new challenge!
 
 ## Skills
 
@@ -23,7 +25,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (October to December 2018)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,17 +36,25 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Oxford University (2009 to 2013)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Philosophy and Modern Languages (French)
+- 2:1
+- Dissertation in the philosophy of science
+- Year abroad teaching in France
 
-#### Any other qualifications
+#### A levels and GCSEs
+
+- A-levels: Maths, Philosophy, French (all 'A' grades), AS in English Literature ('A' grade)
+- GCSEs: 11 A*s, including maths and statistics
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Transport for London** (July 2015 to September 2018)    
+*Business Strategy Manager / Strategic Planner*
+**Department of Health** (October 2013 to June 2015)   
+*Executive Officer / Correspondence Officer (temp role to March 2014)*
+
+## Interests
+
+ Bouldering, dancing, and the odd bit of karaoke! 
