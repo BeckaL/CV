@@ -1,8 +1,10 @@
 ## Becka Lelew
 
-Full stack developer with a keen interest in back-end logic. Recent graduate of Makers Academy. I enjoy solving problems with logic, a bit of maths and a lot of neat code!
+## Full stack developer -- Keen interest in back-end logic -- Recent graduate of Maker's Academy
 
 I'm an Oxford philosophy and languages graduate with 5 years' public sector experience in various analytical and strategy roles. My first love was excel (particularly building models with complex logic) - I've now graduated on to 'Grown Up Programming' and am loving every minute!
+
+I enjoy solving problems with logic, a bit of maths and a lot of neat code.
 
 ## Projects
 
@@ -62,7 +64,7 @@ Part of a team responsible for setting the overall business strategy for TfL. Am
 - TfL lead on a project with an external party looking to use data science to improve diversity; and
 - Developed a training course on Office Skills for TfL apprentices; designed and ran the Excel portion of this.
 
- */ Strategic Planner (July 2015 to September 2017)*
+ *Strategic Planner (July 2015 to September 2017)*
 
 Part of a team responsible for business strategy for London Underground.
 
@@ -81,4 +83,4 @@ Worked in the Project Management Office:
 
 ## Interests
 
- Bouldering, dancing, and the odd bit of karaoke (given enough beer)!
+ Bouldering, dancing, and - given enough beer - the odd bit of karaoke!
