@@ -1,4 +1,6 @@
-## Becka Lelew
+<div style="text-align:center">
+<h1>Becka Lelew</h1>
+</div>
 
 ## Full stack developer -- Keen interest in back-end logic -- Recent graduate of Maker's Academy
 
