@@ -17,7 +17,7 @@ I enjoy solving problems with logic, a bit of maths and a lot of neat code.
 I'm an analytical thinker, and have enjoyed using maths and logic to solve business problems.
 
 - I acted as a 'go to' data analyst for my team at TfL, conducting analysis on a range of topics including: fare evasion, diversity and inclusion, and large-scale investment decisions.
-- I like breaking problems down, and solving them with code - this is a programme I wrote in Python before Makers which generates all possible words for a randomly generated boggle board. [ADD LINK]
+- I like breaking problems down, and solving them with code - [this](https://github.com/BeckaL/summer-of-code/blob/master/Week_2_boggle.py) is a programme I wrote in Python before Makers which generates all possible words for a randomly generated boggle board. [ADD LINK]
 - At TfL I used data analysis to talk to teams about how to improve employees' experiences at work, to help them to make data-driven decisions.
 
 #### Communication and teamwork
@@ -32,11 +32,7 @@ I'm an adaptive team player, and am able to step into a leadership role when nee
 
 #### Makers Academy (October to December 2018)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Excellent team player [PROVIDE EVIDENCE]
-
-- OOP, TDD, MVC, DDD
+- OOP, TDD, MVC
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
