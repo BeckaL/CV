@@ -2,13 +2,17 @@
 <h1>Becka Lelew</h1>
 </div>
 
-## Full stack developer -- Keen interest in back-end logic -- Recent graduate of Maker's Academy
+## Full stack developer - Keen interest in back-end logic - Recent graduate of Maker's Academy
 
 I'm an Oxford philosophy and languages graduate with 5 years' public sector experience in various analytical and strategy roles. My first love was excel (particularly building models with complex logic) - I've now graduated on to 'Grown Up Programming' and am loving every minute!
 
 I enjoy solving problems with logic, a bit of maths and a lot of neat code.
 
 ## Projects
+
+| [Boris Bikes](https://github.com/BeckaL/borrisbikes_becca/commits/master)  | [Makers BnB](https://github.com/BeckaL/MakersBnB) | [Instagram Challenge (WIP)](https://github.com/BeckaL/instagram-challenge) | Final project (To come)
+ |-------------| -----------|-------------------------| ---- |
+| First OOD/TDD pair project at Makers, modelling a basic Oystercard system - see how far I've come!   | Group project to build a MakersBnB clone in a week, a Ruby app built with Sinatra, a minimal framework       | Solo project - Ruby on Rails clone of Instagram, WIP at the moment | TBC |
 
 ## Skills
 
@@ -17,7 +21,7 @@ I enjoy solving problems with logic, a bit of maths and a lot of neat code.
 I'm an analytical thinker, and have enjoyed using maths and logic to solve business problems.
 
 - I acted as a 'go to' data analyst for my team at TfL, conducting analysis on a range of topics including: fare evasion, diversity and inclusion, and large-scale investment decisions.
-- I like breaking problems down, and solving them with code - [this](https://github.com/BeckaL/summer-of-code/blob/master/Week_2_boggle.py) is a programme I wrote in Python before Makers which generates all possible words for a randomly generated boggle board. [ADD LINK]
+- I like breaking problems down, and solving them with code - [this](https://github.com/BeckaL/summer-of-code/blob/master/Week_2_boggle.py) is a programme I wrote in Python before Makers which generates all possible words for a randomly generated boggle board.
 - At TfL I used data analysis to talk to teams about how to improve employees' experiences at work, to help them to make data-driven decisions.
 
 #### Communication and teamwork
