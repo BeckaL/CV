@@ -10,7 +10,7 @@ I enjoy solving problems with logic, a bit of maths and a lot of neat code.
 
 ## Projects
 
-| [Boris Bikes](https://github.com/BeckaL/borrisbikes_becca/commits/master)  | [Makers BnB](https://github.com/BeckaL/MakersBnB) | [Instagram Challenge (WIP)](https://github.com/BeckaL/instagram-challenge) | [Final project - Schej](http://schej-frontend.surge.sh/shifts) [Backend](https://github.com/BeckaL/SchejBackend)
+| [Boris Bikes](https://github.com/BeckaL/borrisbikes_becca/commits/master)  | [Makers BnB](https://github.com/BeckaL/MakersBnB) | [Instagram Challenge (WIP)](https://github.com/BeckaL/instagram-challenge) | [Final project - Schej](http://schej-frontend.surge.sh/shifts) :: [Backend](https://github.com/BeckaL/SchejBackend)
  |-------------| -----------|-------------------------| ---- |
 | First OOD/TDD pair project at Makers, modelling a basic Oystercard system - see how far I've come!   | Group project to build a MakersBnB clone in a week, a Ruby app built with Sinatra, a minimal framework       | Solo project - Ruby on Rails clone of Instagram, WIP at the moment | Final project at Makers Academy - an employee scheduling app. Rails API backend combined with JS/React frontend |
 
