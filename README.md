@@ -4,7 +4,7 @@
 
 ## Full stack developer - Keen interest in back-end logic - Recent graduate of Maker's Academy
 
-I'm an Oxford philosophy and languages graduate with 5 years' public sector experience in various analytical and strategy roles. My first love was excel (particularly building models with complex logic) - I've now graduated on to 'Grown Up Programming' and am loving every minute!
+I'm an Oxford philosophy and languages graduate with 5 years' public sector experience in various analytical and strategy roles - most recently as a Business Strategy Manager at TfL. My first love was excel (particularly building models with complex logic) - I've now graduated on to 'Grown Up Programming' and am loving every minute!
 
 I enjoy solving problems with logic, a bit of maths and a lot of neat code.
 
@@ -22,7 +22,7 @@ I'm an analytical thinker, and have enjoyed using maths and logic to solve busin
 
 - I acted as a 'go to' data analyst for my team at TfL, conducting analysis on a range of topics including: fare evasion, diversity and inclusion, and large-scale investment decisions.
 - I like breaking problems down, and solving them with code - [this](https://github.com/BeckaL/summer-of-code/blob/master/Week_2_boggle.py) is a programme I wrote in Python before Makers which generates all possible words for a randomly generated boggle board.
-- At TfL I used data analysis to talk to teams about how to improve employees' experiences at work, to help them to make data-driven decisions.
+- At TfL I used data analysis to talk to managers about how to improve employees' experiences at work, to help them to make data-driven decisions.
 
 #### Communication and teamwork
 
@@ -48,7 +48,7 @@ I'm an adaptive team player, and am able to step into a leadership role when nee
 - Dissertation in the philosophy of science
 - Year abroad teaching in France
 
-#### A levels and GCSEs
+#### A levels (Godalming College) and GCSEs (Woolmer Hill School)
 
 - A-levels: Maths, Philosophy, French (all 'A' grades), AS in English Literature ('A' grade)
 - GCSEs: 11 A*s, including science, maths and statistics
@@ -62,7 +62,8 @@ Part of a team responsible for setting the overall business strategy for TfL. Am
 
 - Developed the strategy for TfL to track and improve its diversity and inclusion, including designing, project managing and providing technical trouble shooting for the build of a suite of local reports for TfL's 27,000+ staff;
 - Developed overall performance targets for TfL and designed reporting against these metrics;
-- Developed the methodology to translate performance into reward for TfL's 500+ senior managers;
+- Developed a methodology to translate performance into reward for TfL's 500+ senior managers;
+- Worked on development of the methodology for prioritisation across TfL's £10bn+ investment programme and led some of this process;
 - TfL lead on a project with an external party looking to use data science to improve diversity; and
 - Developed a training course on Office Skills for TfL apprentices; designed and ran the Excel portion of this.
 
@@ -71,7 +72,7 @@ Part of a team responsible for setting the overall business strategy for TfL. Am
 Part of a team responsible for business strategy for London Underground.
 
 - Developed KPI forecasts for some of London Underground's key metrics
-- Worked on the prioritisation of LU's £10bn medium-term investment programme, including developing a methodology for prioritisation
+- Worked on the prioritisation of LU's multi-billion pound medium-term investment programme, including developing a methodology for prioritisation
 - Drafted briefings and papers for our Executive Committee, Board and Deputy Mayor
 
 **Department of Health** (October 2013 to June 2015)   
