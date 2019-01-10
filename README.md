@@ -4,7 +4,7 @@
 
 ## Full stack developer - Keen interest in back-end logic - Recent graduate of Maker's Academy
 
-I'm an Oxford philosophy and languages graduate with 5 years' public sector experience in various analytical and strategy roles - most recently as a Business Strategy Manager at TfL. My first love was excel (particularly building models with complex logic) - I've now graduated on to 'Grown Up Programming' and am loving every minute!
+I'm an Oxford philosophy and languages graduate with 5 years' public sector experience in various analytical and strategy roles - most recently as a Business Strategy Manager at Transport for London. My first love was excel (particularly building models with complex logic) - I've now graduated on to 'Grown Up Programming' and am loving every minute!
 
 I enjoy solving problems with logic, a bit of maths and a lot of neat code.
 
