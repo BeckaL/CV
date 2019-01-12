@@ -2,11 +2,11 @@
 <h1>Becka Lelew</h1>
 </div>
 
-## Full stack developer - Keen interest in back-end logic - Recent graduate of Maker's Academy
+## Full stack developer with a preference for backend: Recent graduate of Maker's Academy
 
 I'm an Oxford philosophy and languages graduate with 5 years' public sector experience in various analytical and strategy roles - most recently as a Business Strategy Manager at Transport for London. 
 
-My first love was excel (particularly building models with complex logic) - I've now graduated on to 'Grown Up Programming' and am loving every minute!
+My first love was excel (particularly building complex models). Becoming a developer was a natural progression on from this, and I'm now loving using my logical thinking skills to build web applications.
 
 I enjoy solving problems with logic, a bit of maths and a lot of neat code.
 
@@ -45,14 +45,12 @@ I'm an adaptive team player, and am able to step into a leadership role when nee
 
 #### Oxford University (2009 to 2013)
 
-- Philosophy and Modern Languages (French)
-- 2:1
-- Dissertation in the philosophy of science
+- 2:1 Philosophy and Modern Languages (French) with dissertation in the philosophy of science
 - Year abroad teaching in France
 
 #### A levels (Godalming College) and GCSEs (Woolmer Hill School)
 
-- A-levels: Maths, Philosophy, French (all 'A' grades), AS in English Literature ('A' grade)
+- A-levels: Maths, Philosophy, French, AS in English Literature (all A grades)
 - GCSEs: 11 A*s, including science, maths and statistics
 
 ## Experience
